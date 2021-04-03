@@ -5,6 +5,7 @@ class StateWise extends CI_Controller {
 
 	public function index()
 	{
+		// jahid momin
 		$this->getData();
 		
 	}
